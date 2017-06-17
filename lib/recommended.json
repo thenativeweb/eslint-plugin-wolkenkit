@@ -1,0 +1,27 @@
+{
+  "wolkenkit/aggregate-commands": 2,
+  "wolkenkit/aggregate-commands-mark": 2,
+  "wolkenkit/aggregate-commands-parameters": 2,
+  "wolkenkit/aggregate-events": 2,
+  "wolkenkit/aggregate-exports": 2,
+  "wolkenkit/aggregate-initialstate": 2,
+  "wolkenkit/aggregate-order": 2,
+
+  "wolkenkit/flow-exports": 2,
+  "wolkenkit/flow-identity": 2,
+  "wolkenkit/flow-identity-parameters": 2,
+  "wolkenkit/flow-initialstate": 2,
+  "wolkenkit/flow-order": 2,
+  "wolkenkit/flow-transitions": 2,
+  "wolkenkit/flow-transitions-parameters": 2,
+  "wolkenkit/flow-when": 2,
+  "wolkenkit/flow-when-mark": 2,
+  "wolkenkit/flow-when-parameters": 2,
+
+  "wolkenkit/list-exports": 2,
+  "wolkenkit/list-fields": 2,
+  "wolkenkit/list-order": 2,
+  "wolkenkit/list-when": 2,
+  "wolkenkit/list-when-mark": 2,
+  "wolkenkit/list-when-parameters": 2
+}

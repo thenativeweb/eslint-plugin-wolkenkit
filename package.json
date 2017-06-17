@@ -1,0 +1,38 @@
+{
+  "name": "eslint-plugin-wolkenkit",
+  "version": "0.0.0",
+  "description": "eslint-plugin-wolkenkit is a set of rules for ESLint.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Matthias Wagler",
+      "email": "matthias.wagler@thenativeweb.io"
+    },
+    {
+      "name": "Christian Nolte",
+      "email": "christian.nolte@thenativeweb.io"
+    }
+  ],
+  "main": "lib/wolkenkit.js",
+  "dependencies": {
+    "require-dir": "0.3.2",
+    "lodash": "4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "3.12.2",
+    "roboter": "0.15.2",
+    "roboter-server": "0.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/eslint-plugin-wolkenkit.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin"
+  ],
+  "license": "LGPL-3.0"
+}
