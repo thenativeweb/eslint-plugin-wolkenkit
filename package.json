@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-wolkenkit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "eslint-plugin-wolkenkit is a set of rules for ESLint.",
   "contributors": [
     {
