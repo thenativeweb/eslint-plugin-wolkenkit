@@ -19,7 +19,7 @@
   "main": "lib/wolkenkit.js",
   "dependencies": {
     "require-dir": "0.3.2",
-    "lodash": "4.17.4"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "eslint": "3.12.2",
